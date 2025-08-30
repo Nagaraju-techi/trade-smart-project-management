@@ -45,9 +45,9 @@ No code has been developed yet — this repository focuses solely on **documenta
 ## 📂 Repository Structure  
 📦 trade-smart-project-management
 ┣ 📁 docs/
-┃ ┗ 📄 PM_WORK_BOOK_1601.pdf # Project Management Workbook
-┣ 📄 README.md # Project overview
-┗ 📄 LICENSE (optional) # MIT recommended if public
+┃ ┗ 📄 PM_WORK_BOOK_1601.pdf  # Project Management Workbook
+┣ 📄 README.md  # Project overview
+┗ 📄 LICENSE (optional)  # MIT recommended if public
 
 ---
 
